@@ -1,0 +1,9 @@
+Homebrew's got the Brewfile.
+Chrome's got... nothing. Or does it?
+Let's run this script.
+Are you watching closely?
+One does not simply install extensions.
+He configures them.
+Chrome wasn't built in a day... didn't even take a minute...
+How did you do it?
+Magic... of editing.
