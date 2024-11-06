@@ -1,5 +1,6 @@
 Homebrew's got the Brewfile.
-Chrome's got... nothing. Or does it?
+Chrome's got... nothing.
+Or does it?
 Let's run this script.
 Are you watching closely?
 One does not simply install extensions.
